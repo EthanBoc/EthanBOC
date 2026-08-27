@@ -1,5 +1,7 @@
 ## Ethan BOCQUET
 
+I am an engineering student at the École Centrale de Lyon (having completed the CPGE MPI programme) on the general engineering course. Having learnt algorithmics and low-level programming (C/OCaml) during my three years of preparatory classes, I am now focusing on applied Python projects, particularly in the fields of AI and cybersecurity.
+
 ### Experience
 
 **UNBOXED Hackathon** — GE HealthCare | February 2026
@@ -27,7 +29,7 @@ Development, in teams of four, of a simulator for detecting telephone fraud with
 
 **École Centrale de Lyon** : general engineering degree programme  2025–present
 
-**CPGE MP2I–MPI** : Preparatory classes for French engineering Grandes Écoles  2022–2025
+**CPGE MP2I–MPI\*** : Preparatory classes for French engineering Grandes Écoles
 
 ---
 
