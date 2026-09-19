@@ -33,8 +33,6 @@ Lexer and recursive-descent parser turning logic formulas into an abstract synta
 **[Backtracking: N-Queens & Sudoku](https://github.com/EthanBoc/backtracking-nqueens-sudoku)**
 Two constraint-satisfaction classics in C — including a Sudoku solver built around an unusual digit-by-digit decomposition.
 
-More algorithm work — graph algorithms, data structures, and prep-school exercises — is available across my other repositories.
-
 ---
 
 ### Tech stack
