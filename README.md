@@ -15,6 +15,28 @@ Development, in teams of four, of a simulator for detecting telephone fraud with
 ### Projects
 ---
 
+**[Vélo'v Traffic Monitor](https://github.com/EthanBoc/velov-traffic-monitor)**
+Full-stack group project (4 students, 164 commits) analysing Lyon's bike-share network — interactive map, historical usage charts. Project lead and database design.
+
+**[Bin Packing — Branch & Bound Solver](https://github.com/EthanBoc/bin-packing-branch-and-bound)**
+Exact resolution of the NP-hard bin packing problem in OCaml, alongside four greedy heuristics for comparison.
+
+**[Optimal Color Palette](https://github.com/EthanBoc/optimal-color-palette)**
+Four from-scratch palette-selection methods (median cut, k-means, and more) for image quantization in Python, benchmarked against Pillow's own algorithm.
+
+**[Pathfinding Algorithms](https://github.com/EthanBoc/pathfinding-algorithms)**
+A\*, Dijkstra, Floyd-Warshall, BFS/DFS in OCaml, with a real-world example on 17 French cities.
+
+**[Propositional Logic Compiler](https://github.com/EthanBoc/propositional-logic-compiler)**
+Lexer and recursive-descent parser turning logic formulas into an abstract syntax tree, in OCaml.
+
+**[Backtracking: N-Queens & Sudoku](https://github.com/EthanBoc/backtracking-nqueens-sudoku)**
+Two constraint-satisfaction classics in C — including a Sudoku solver built around an unusual digit-by-digit decomposition.
+
+More algorithm work — graph algorithms, data structures, and prep-school exercises — is available across my other repositories.
+
+---
+
 ### Tech stack
 
 **Languages**
